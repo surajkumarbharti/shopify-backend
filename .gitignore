@@ -10,8 +10,10 @@ yarn-error.log
 .env.*.local
 
 # IDE
-.vscode/
 .idea/
+.vscode/
+*.swp
+*.swo
 
 # OS
 .DS_Store
